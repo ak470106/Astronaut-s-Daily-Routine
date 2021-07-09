@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "p5.play-boilerplate-master",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "p5.play-boilerplate-master"
+	}
+}
